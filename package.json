@@ -1,0 +1,21 @@
+{
+  "name": "@zedai00/dropdownz",
+  "version": "1.0.1",
+  "description": "A simple, reusable JavaScript dropdown toggle module",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "dropdown",
+    "toggle",
+    "js",
+    "ui",
+    "vanilla-js"
+  ],
+  "author": "Zed (https://github.com/zedai00)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zedai00/dropdownz.git"
+  },
+  "browser": "./src/index.js"
+}
